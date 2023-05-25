@@ -1,4 +1,4 @@
-# \[코딩테스트를 위한 readline 모듈 설명]
+# \[Javascript 코딩 테스트를 위한 readline 모듈 설명]
 
 <br>
 
