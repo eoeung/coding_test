@@ -19,3 +19,7 @@
 |23.05.26|[문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940?language=javascript)|[클릭](./repeat_string.js)|Javsscript|Basic|
 |23.05.26|[더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939?language=javascript)|[클릭](./add_more.js)|Javsscript|Basic|
 |23.05.26|[두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938?language=javascript)|[클릭](./compare_two_values.js)|Javsscript|Basic|
+|23.05.26|[n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937?language=javascript)|[클릭](./multiple_of_n.js)|Javsscript|Basic|
+|23.05.26|[공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936?language=javascript)|[클릭](./common_mutiple.js)|Javsscript|Basic|
+|23.05.26|[홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935?language=javascript)|[클릭](./different_value_odd_even.js)|Javsscript|Basic|
+|23.05.26|[조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=javascript)|[클릭](./conditional_string.js)|Javsscript|Basic|

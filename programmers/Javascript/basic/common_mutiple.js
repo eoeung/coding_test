@@ -1,0 +1,8 @@
+/**
+ * 제목: 공배수
+ * URL: https://school.programmers.co.kr/learn/courses/30/lessons/181936?language=javascript
+ */
+
+function solution(number, n, m) {
+    return (number % n == 0) ? ((number % m == 0) ? 1 : 0) : 0;
+}
