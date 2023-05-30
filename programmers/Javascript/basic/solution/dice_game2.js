@@ -1,6 +1,6 @@
 /**
  * 제목: 주사위 게임2
- * URL: https://school.programmers.co.kr/learn/courses/30/lessons/181930
+ * URL: https://school.programmers.co.kr/learn/courses/30/lessons/181930?language=javascript
  */
 
 function solution(a, b, c) {

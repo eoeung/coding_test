@@ -24,7 +24,11 @@
 |23.05.26|[홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935?language=javascript)|[클릭](./solution/different_value_odd_even.js)|Javsscript|Basic|
 |23.05.26|[조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=javascript)|[클릭](./solution/conditional_string.js)|Javsscript|Basic|
 |23.05.30|[flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933?language=javascript)|[클릭](./solution/flag.js)|Javsscript|Basic|
-|23.05.30|[코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)|[클릭](./solution/processing_code.js)|Javsscript|Basic|
-|23.05.30|[등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)|[클릭](./solution/arithmetic_progression.js)|Javsscript|Basic|
-|23.05.30|[주사위 게임](https://school.programmers.co.kr/learn/courses/30/lessons/181930)|[클릭](./solution/dice_game2.js)|Javsscript|Basic|
+|23.05.30|[코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932?language=javascript)|[클릭](./solution/processing_code.js)|Javsscript|Basic|
+|23.05.30|[등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931?language=javascript)|[클릭](./solution/arithmetic_progression.js)|Javsscript|Basic|
+|23.05.30|[주사위 게임](https://school.programmers.co.kr/learn/courses/30/lessons/181930?language=javascript)|[클릭](./solution/dice_game2.js)|Javsscript|Basic|
 |23.05.30|[원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929?language=javascript)|[클릭](./solution/product_and_sum.js)|Javsscript|Basic|
+|23.05.30|[이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928?language=javascript)|[클릭](./solution/product_and_sum.js)|Javsscript|Basic|
+|23.05.30|[마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=javascript)|[클릭](./solution/last_two_elements.js)|Javsscript|Basic|
+|23.05.30|[수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926?language=javascript)|[클릭](./solution/manipulate_number1.js)|Javsscript|Basic|
+|23.05.30|[수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=javascript)|[클릭](./solution/manipulate_number2.js)|Javsscript|Basic|

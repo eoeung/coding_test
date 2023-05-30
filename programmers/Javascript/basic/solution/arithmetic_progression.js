@@ -1,6 +1,6 @@
 /**
  * 제목: 등차수열의 특정한 항만 더하기
- * URL: https://school.programmers.co.kr/learn/courses/30/lessons/181931
+ * URL: https://school.programmers.co.kr/learn/courses/30/lessons/181931?language=javascript
  */
 
 function solution(a, d, included) {
