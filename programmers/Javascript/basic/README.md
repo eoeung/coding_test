@@ -37,3 +37,5 @@
 |23.05.31|[수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922?language=javascript)|[클릭](./solution/query4.js)|Javascript|Basic|
 |23.05.31|[카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=javascript)|[클릭](./solution/countup.js)|Javascript|Basic|
 |23.05.31|[콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=javascript)|[클릭](./solution/collatz.js)|Javascript|Basic|
+|23.05.31|[간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917?language=javascript)|[클릭](./solution/simple_logical_operator.js)|Javascript|Basic|
+|23.06.01|[9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914?language=javascript)|[클릭](./solution/modulo_9.js)|Javascript|Basic|
