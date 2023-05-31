@@ -33,3 +33,7 @@
 |23.05.30|[수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926?language=javascript)|[클릭](./solution/manipulate_number1.js)|Javascript|Basic|
 |23.05.30|[수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=javascript)|[클릭](./solution/manipulate_number2.js)|Javascript|Basic|
 |23.05.31|[수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924?language=javascript)|[클릭](./solution/query3.js)|Javascript|Basic|
+|23.05.31|[수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923?language=javascript)|[클릭](./solution/query2.js)|Javascript|Basic|
+|23.05.31|[수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922?language=javascript)|[클릭](./solution/query4.js)|Javascript|Basic|
+|23.05.31|[카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=javascript)|[클릭](./solution/countup.js)|Javascript|Basic|
+|23.05.31|[콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=javascript)|[클릭](./solution/collatz.js)|Javascript|Basic|
