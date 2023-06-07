@@ -43,3 +43,4 @@
 |23.06.07|[배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921?language=javascript)|[클릭](./solution/create_array2.js)|Javascript|Basic|
 |23.06.07|[배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895?language=javascript)|[클릭](./solution/create_array3.js)|Javascript|Basic|
 |23.06.07|[배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918?language=javascript)|[클릭](./solution/create_array4.js)|Javascript|Basic|
+|23.06.07|[배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912?language=javascript)|[클릭](./solution/create_array5.js)|Javascript|Basic|
