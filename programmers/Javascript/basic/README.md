@@ -68,9 +68,14 @@
 |23.06.08|[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876?language=javascript)|[클릭](./solution/toLowerCase.js)|Javascript|Basic|
 |23.06.08|[대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=javascript)|[클릭](./solution/toUpperCase.js)|Javascript|Basic|
 |23.06.08|[길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=javascript)|[클릭](./solution/length_operation.js)|Javascript|Basic|
-|23.06.08|[공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=javascript)|[클릭](./solution/split_space.js)|Javascript|Basic|
+|23.06.08|[공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=javascript)|[클릭](./solution/split_space1.js)|Javascript|Basic|
+|23.06.08|[공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=javascript)|[클릭](./solution/split_space2.js)|Javascript|Basic|
 |23.06.08|[특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873?language=javascript)|[클릭](./solution/certain_toUpper.js)|Javascript|Basic|
-
+|23.06.08|[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842?language=javascript)|[클릭](./solution/partial_string.js)|Javascript|Basic|
+|23.06.08|[A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874?language=javascript)|[클릭](./solution/highlight_A.js)|Javascript|Basic|
+|23.06.08|[rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=javascript)|[클릭](./solution/rny_string.js)|Javascript|Basic|
+|23.06.08|[카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899?language=javascript)|[클릭](./solution/count_down.js)|Javascript|Basic|
+|23.06.08|[n번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892?language=javascript)|[클릭](./solution/start_n.js)|Javascript|Basic|
 
 
 
