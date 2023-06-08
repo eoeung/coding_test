@@ -54,3 +54,7 @@
 |23.06.08|[조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882?language=javascript)|[클릭](./solution/convert_progression1.js)|Javascript|Basic|
 |23.06.08|[조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881?language=javascript)|[클릭](./solution/convert_progression2.js)|Javascript|Basic|
 |23.06.08|[조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835?language=javascript)|[클릭](./solution/convert_progression3.js)|Javascript|Basic|
+|23.06.08|[n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884?language=javascript)|[클릭](./solution/plus_more_n.js)|Javascript|Basic|
+|23.06.08|[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848?language=javascript)|[클릭](./solution/convert_string_to_number.js)|Javascript|Basic|
+|23.06.08|[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=javascript)|[클릭](./solution/convert_number_to_string.js)|Javascript|Basic|
+|23.06.08|[문자열 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907?language=javascript)|[클릭](./solution/slice_string.js)|Javascript|Basic|
