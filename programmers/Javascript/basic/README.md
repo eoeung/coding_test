@@ -44,3 +44,13 @@
 |23.06.07|[배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895?language=javascript)|[클릭](./solution/create_array3.js)|Javascript|Basic|
 |23.06.07|[배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918?language=javascript)|[클릭](./solution/create_array4.js)|Javascript|Basic|
 |23.06.07|[배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912?language=javascript)|[클릭](./solution/create_array5.js)|Javascript|Basic|
+|23.06.08|[배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859?language=javascript)|[클릭](./solution/create_array6.js)|Javascript|Basic|
+|23.06.08|[qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903?language=javascript)|[클릭](./solution/qrcode.js)|Javascript|Basic|
+|23.06.08|[글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915?language=javascript)|[클릭](./solution/concat_string.js)|Javascript|Basic|
+|23.06.08|[문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913?language=javascript)|[클릭](./solution/concat_string.js)|Javascript|Basic|
+|23.06.08|[부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911?language=javascript)|[클릭](./solution/concat_partial_string.js)|Javascript|Basic|
+|23.06.08|[배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875?language=javascript)|[클릭](./solution/change_letter_in_array.js)|Javascript|Basic|
+|23.06.08|[부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843?language=javascript)|[클릭](./solution/check_includes_string.js)|Javascript|Basic|
+|23.06.08|[조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882?language=javascript)|[클릭](./solution/convert_progression1.js)|Javascript|Basic|
+|23.06.08|[조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881?language=javascript)|[클릭](./solution/convert_progression2.js)|Javascript|Basic|
+|23.06.08|[조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835?language=javascript)|[클릭](./solution/convert_progression3.js)|Javascript|Basic|
