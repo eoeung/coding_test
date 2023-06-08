@@ -58,3 +58,22 @@
 |23.06.08|[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848?language=javascript)|[클릭](./solution/convert_string_to_number.js)|Javascript|Basic|
 |23.06.08|[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=javascript)|[클릭](./solution/convert_number_to_string.js)|Javascript|Basic|
 |23.06.08|[문자열 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907?language=javascript)|[클릭](./solution/slice_string.js)|Javascript|Basic|
+|23.06.08|[첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896?language=javascript)|[클릭](./solution/first_minus.js)|Javascript|Basic|
+|23.06.08|[n번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889?language=javascript)|[클릭](./solution/from_n.js)|Javascript|Basic|
+|23.06.08|[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849?language=javascript)|[클릭](./solution/sum_string.js)|Javascript|Basic|
+|23.06.08|[정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840?language=javascript)|[클릭](./solution/find_number.js)|Javascript|Basic|
+|23.06.08|[정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850?language=javascript)|[클릭](./solution/trunc_point.js)|Javascript|Basic|
+|23.06.08|[n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888?language=javascript)|[클릭](./solution/n_term_elements.js)|Javascript|Basic|
+|23.06.08|[문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910?language=javascript)|[클릭](./solution/back_string.js)|Javascript|Basic|
+|23.06.08|[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876?language=javascript)|[클릭](./solution/toLowerCase.js)|Javascript|Basic|
+|23.06.08|[대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=javascript)|[클릭](./solution/toUpperCase.js)|Javascript|Basic|
+|23.06.08|[길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=javascript)|[클릭](./solution/length_operation.js)|Javascript|Basic|
+|23.06.08|[공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=javascript)|[클릭](./solution/split_space.js)|Javascript|Basic|
+|23.06.08|[특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873?language=javascript)|[클릭](./solution/certain_toUpper.js)|Javascript|Basic|
+
+
+
+
+
+
+
