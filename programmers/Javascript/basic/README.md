@@ -77,9 +77,17 @@
 |23.06.08|[카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899?language=javascript)|[클릭](./solution/count_down.js)|Javascript|Basic|
 |23.06.08|[n번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892?language=javascript)|[클릭](./solution/start_n.js)|Javascript|Basic|
 |23.06.09|[접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906?language=javascript)|[클릭](./solution/check_prefix.js)|Javascript|Basic|
+|23.06.09|[접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908?language=javascript)|[클릭](./solution/check_suffix.js)|Javascript|Basic|
 |23.06.09|[원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878?language=javascript)|[클릭](./solution/find_want_string.js)|Javascript|Basic|
 |23.06.09|[꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841?language=javascript)|[클릭](./solution/tail_string.js)|Javascript|Basic|
 |23.06.09|[배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854?language=javascript)|[클릭](./solution/different_oper_array_length.js)|Javascript|Basic|
+|23.06.09|[뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852?language=javascript)|[클릭](./solution/back_from_5th.js)|Javascript|Basic|
+|23.06.09|[주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839?language=javascript)|[클릭](./solution/dice_game1.js)|Javascript|Basic|
+|23.06.09|[배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861?language=javascript)|[클릭](./solution/add_array_elements.js)|Javascript|Basic|
+|23.06.09|[홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887?language=javascript)|[클릭](./solution/odd_vs_even.js)|Javascript|Basic|
+
+
+
 
 
 
