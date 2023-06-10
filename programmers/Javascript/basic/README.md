@@ -85,6 +85,10 @@
 |23.06.09|[주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839?language=javascript)|[클릭](./solution/dice_game1.js)|Javascript|Basic|
 |23.06.09|[배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861?language=javascript)|[클릭](./solution/add_array_elements.js)|Javascript|Basic|
 |23.06.09|[홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887?language=javascript)|[클릭](./solution/odd_vs_even.js)|Javascript|Basic|
+|23.06.10|[문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=javascript)|[클릭](./solution/find_changing_string.js)|Javascript|Basic|
+|23.06.10|[배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856?language=javascript)|[클릭](./solution/compare_array.js)|Javascript|Basic|
+|23.06.10|[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853?language=javascript)|[클릭](./solution/5th_from_back.js)|Javascript|Basic|
+|23.06.10|[0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847?language=javascript)|[클릭](./solution/delete_0.js)|Javascript|Basic|
 
 
 
