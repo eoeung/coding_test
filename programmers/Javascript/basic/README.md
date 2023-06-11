@@ -89,8 +89,8 @@
 |23.06.10|[배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856?language=javascript)|[클릭](./solution/compare_array.js)|Javascript|Basic|
 |23.06.10|[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853?language=javascript)|[클릭](./solution/5th_from_back.js)|Javascript|Basic|
 |23.06.10|[0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847?language=javascript)|[클릭](./solution/delete_0.js)|Javascript|Basic|
-
-
+|23.06.11|[l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834?language=javascript)|[클릭](./solution/make_l.js)|Javascript|Basic|
+|23.06.11|[5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886?language=javascript)|[클릭](./solution/5_each.js)|Javascript|Basic|
 
 
 
