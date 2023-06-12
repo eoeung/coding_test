@@ -91,6 +91,13 @@
 |23.06.10|[0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847?language=javascript)|[클릭](./solution/delete_0.js)|Javascript|Basic|
 |23.06.11|[l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834?language=javascript)|[클릭](./solution/make_l.js)|Javascript|Basic|
 |23.06.11|[5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886?language=javascript)|[클릭](./solution/5_each.js)|Javascript|Basic|
+|23.06.12|[순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891?language=javascript)|[클릭](./solution/change_order.js)|Javascript|Basic|
+|23.06.12|[할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885?language=javascript)|[클릭](./solution/todo_list.js)|Javascript|Basic|
+|23.06.12|[배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844?language=javascript)|[클릭](./solution/delete_array_element.js)|Javascript|Basic|
+|23.06.12|[접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909?language=javascript)|[클릭](./solution/suffix_array.js)|Javascript|Basic|
+|23.06.12|[x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867?language=javascript)|[클릭](./solution/count_between_x.js)|Javascript|Basic|
+|23.06.12|[간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865?language=javascript)|[클릭](./solution/calculate_simple.js)|Javascript|Basic|
+
 
 
 
