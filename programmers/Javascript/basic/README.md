@@ -97,6 +97,13 @@
 |23.06.12|[접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909?language=javascript)|[클릭](./solution/suffix_array.js)|Javascript|Basic|
 |23.06.12|[x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867?language=javascript)|[클릭](./solution/count_between_x.js)|Javascript|Basic|
 |23.06.12|[간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865?language=javascript)|[클릭](./solution/calculate_simple.js)|Javascript|Basic|
+|23.06.12|[ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870?language=javascript)|[클릭](./solution/delete_ad.js)|Javascript|Basic|
+|23.06.12|[특별한 이차원 배열1](https://school.programmers.co.kr/learn/courses/30/lessons/181833?language=javascript)|[클릭](./solution/special_2d_array1.js)|Javascript|Basic|
+|23.06.12|[특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181870?language=javascript)|[클릭](./solution/special_2d_array2.js)|Javascript|Basic|
+|23.06.12|[가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898?language=javascript)|[클릭](./solution/find_the_nearest_1.js)|Javascript|Basic|
+|23.06.12|[문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866?language=javascript)|[클릭](./solution/split_sort_string.js)|Javascript|Basic|
+|23.06.12|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181866?language=javascript)|[클릭](./solution/reverse_string.js)|Javascript|Basic|
+|23.06.12|[세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904?language=javascript)|[클릭](./solution/read_vertical.js)|Javascript|Basic|
 
 
 
