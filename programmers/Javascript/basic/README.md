@@ -106,6 +106,6 @@
 |23.06.12|[세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904?language=javascript)|[클릭](./solution/read_vertical.js)|Javascript|Basic|
 |23.06.13|[문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902?language=javascript)|[클릭](./solution/count_char.js)|Javascript|Basic|
 |23.06.13|[글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=javascript)|[클릭](./solution/delete_char.js)|Javascript|Basic|
-
+|23.06.13|[리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897?language=javascript)|[클릭](./solution/cut_list.js)|Javascript|Basic|
 
 
