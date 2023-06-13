@@ -121,3 +121,7 @@
 |115|23.06.13|[주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916?language=javascript)|[클릭](./solution/dice_game3.js)|Javascript|Basic|
 |116|23.06.13|[왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890?language=javascript)|[클릭](./solution/left_right.js)|Javascript|Basic|
 |117|23.06.13|[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846?language=javascript)|[클릭](./solution/sum_two_numbers.js)|Javascript|Basic|
+|118|23.06.13|[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837?language=javascript)|[클릭](./solution/coffee_errand.js)|Javascript|Basic|
+|119|23.06.14|[그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836?language=javascript)|[클릭](./solution/c)|Javascript|Basic|
+
+
