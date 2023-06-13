@@ -32,8 +32,8 @@
 |23.05.30|[마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=javascript)|[클릭](./solution/last_two_elements.js)|Javascript|Basic|
 |23.05.30|[수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926?language=javascript)|[클릭](./solution/manipulate_number1.js)|Javascript|Basic|
 |23.05.30|[수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=javascript)|[클릭](./solution/manipulate_number2.js)|Javascript|Basic|
-|23.05.31|[수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924?language=javascript)|[클릭](./solution/query3.js)|Javascript|Basic|
 |23.05.31|[수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923?language=javascript)|[클릭](./solution/query2.js)|Javascript|Basic|
+|23.05.31|[수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924?language=javascript)|[클릭](./solution/query3.js)|Javascript|Basic|
 |23.05.31|[수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922?language=javascript)|[클릭](./solution/query4.js)|Javascript|Basic|
 |23.05.31|[카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920?language=javascript)|[클릭](./solution/countup.js)|Javascript|Basic|
 |23.05.31|[콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919?language=javascript)|[클릭](./solution/collatz.js)|Javascript|Basic|
@@ -107,5 +107,17 @@
 |23.06.13|[문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902?language=javascript)|[클릭](./solution/count_char.js)|Javascript|Basic|
 |23.06.13|[글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=javascript)|[클릭](./solution/delete_char.js)|Javascript|Basic|
 |23.06.13|[리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897?language=javascript)|[클릭](./solution/cut_list.js)|Javascript|Basic|
+|23.06.13|[2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894?language=javascript)|[클릭](./solution/2_area.js)|Javascript|Basic|
+|23.06.13|[배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893?language=javascript)|[클릭](./solution/carve_array.js)|Javascript|Basic|
+|23.06.13|[수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883?language=javascript)|[클릭](./solution/query1.js)|Javascript|Basic|
+|23.06.13|[1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880?language=javascript)|[클릭](./solution/make_1.js)|Javascript|Basic|
+|23.06.13|[특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872?language=javascript)|[클릭](./solution/find_long_string.js)|Javascript|Basic|
+|23.06.13|[문자열이 몇 번 등자하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871?language=javascript)|[클릭](./solution/count_string.js)|Javascript|Basic|
+|23.06.13|[세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862?language=javascript)|[클릭](./solution/three_separator.js)|Javascript|Basic|
+|23.06.13|[빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=javascript)|[클릭](./solution/empty_array_add_and_delete.js)|Javascript|Basic|
+|23.06.13|[무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858?language=javascript)|[클릭](./solution/vote_random_k.js)|Javascript|Basic|
+|23.06.13|[배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857?language=javascript)|[클릭](./solution/vote_random_k.js)|Javascript|Basic|
+
+
 
 
