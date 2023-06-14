@@ -2,7 +2,7 @@
 
 <br>
 
-|순서|날짜|제목/문제 링크|풀이 링크|언어|난이도|
+||날짜|제목/문제 링크|풀이 링크|언어|난이도|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|23.05.22|[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=javascript)|[클릭](./solution/print_string.js)|Javascript|Basic|
 |2|23.05.24|[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=javascript)|[클릭](./solution/print_ab.js)|Javascript|Basic|
