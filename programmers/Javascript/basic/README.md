@@ -124,4 +124,4 @@
 |118|23.06.13|[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837?language=javascript)|[클릭](./solution/coffee_errand.js)|Javascript|Basic|
 |119|23.06.14|[그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836?language=javascript)|[클릭](./solution/zoom_picture.js)|Javascript|Basic|
 |120|23.06.15|[날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838?language=javascript)|[클릭](./solution/compare_date.js)|Javascript|Basic|
-
+|121|23.06.16|[정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830?language=javascript)|[클릭](./solution/make_square.js)|Javascript|Basic|
