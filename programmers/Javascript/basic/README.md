@@ -126,3 +126,4 @@
 |120|23.06.15|[날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838?language=javascript)|[클릭](./solution/compare_date.js)|Javascript|Basic|
 |121|23.06.16|[정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830?language=javascript)|[클릭](./solution/make_square.js)|Javascript|Basic|
 |122|23.06.16|[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829?language=javascript)|[클릭](./solution/diagonal_circulate_2d_array.js)|Javascript|Basic|
+|123|23.06.19|[전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851?language=javascript)|[클릭](./solution/national_competition.js)|Javascript|Basic|
