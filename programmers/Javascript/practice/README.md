@@ -16,9 +16,9 @@
 |9|23.06.20|[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=javascript)|[클릭](./solution/addition_of_fraction.js)|Javascript|practice|
 |10|23.06.20|[배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809?language=javascript)|[클릭](./solution/create_array_2x.js)|Javascript|practice|
 |11|23.06.20|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=javascript)|[클릭](./solution/remainder.js)|Javascript|practice|
-
-
-
+|12|23.06.21|[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=javascript)|[클릭](./solution/median.js)|Javascript|practice|
+|12|23.06.21|[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812?language=javascript)|[클릭](./solution/median.js)|Javascript|practice|
+|13|23.06.21|[짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813?language=javascript)|[클릭](./solution/hate_even.js)|Javascript|practice|
 
 
 
