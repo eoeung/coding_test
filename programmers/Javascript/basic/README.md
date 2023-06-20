@@ -1,4 +1,5 @@
-# Javascript Basic Coding Test by Programmers
+# Javascript Basic Training by Programmers
+# 코딩 기초 트레이닝
 
 <br>
 
