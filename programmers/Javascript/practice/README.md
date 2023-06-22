@@ -19,13 +19,25 @@
 |12|23.06.21|[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=javascript)|[클릭](./solution/median.js)|Javascript|practice|
 |12|23.06.21|[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812?language=javascript)|[클릭](./solution/median.js)|Javascript|practice|
 |13|23.06.21|[짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813?language=javascript)|[클릭](./solution/hate_even.js)|Javascript|practice|
+|14|23.06.22|[피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=javascript)|[클릭](./solution/share_pizza1.js)|Javascript|practice|
+|15|23.06.22|[피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815?language=javascript)|[클릭](./solution/share_pizza2.js)|Javascript|practice|
+|16|23.06.22|[피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=javascript)|[클릭](./solution/share_pizza3.js)|Javascript|practice|
+|17|23.06.22|[배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=javascript)|[클릭](./solution/array_average.js)|Javascript|practice|
+|18|23.06.22|[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818?language=javascript)|[클릭](./solution/discount_shop.js)|Javascript|practice|
+|19|23.06.22|[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819?language=javascript)|[클릭](./solution/ice_americano.js)|Javascript|practice|
+|20|23.06.20|[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript)|[클릭](./solution/print_age.js)|Javascript|practice|
+|21|23.06.22|[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821?language=javascript)|[클릭](./solution/reverse_array.js)|Javascript|practice|
+|22|23.06.22|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822?language=javascript)|[클릭](./solution/reverse_string.js)|Javascript|practice|
+|23|23.06.22|[직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823?language=javascript)|[클릭](./solution/print_right_triangle.js)|Javascript|practice|
+|24|23.06.22|[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824?language=javascript)|[클릭](./solution/count_even_odd.js)|Javascript|practice|
+|25|23.06.22|[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825?language=javascript)|[클릭](./solution/print_repeat_string.js)|Javascript|practice|
+|26|23.06.22|[특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=javascript)|[클릭](./solution/delete_special_character.js)|Javascript|practice|
+|27|23.06.22|[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=javascript)|[클릭](./solution/protractor.js)|Javascript|practice|
+|28|23.06.22|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript)|[클릭](./solution/lamb_skewers.js)|Javascript|practice|
+|29|23.06.22|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=javascript)|[클릭](./solution/sum_even.js)|Javascript|practice|
+|30|23.06.22|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=javascript)|[클릭](./solution/slice_array.js)|Javascript|practice|
 
 
-
-
-
-
-|21|23.06.20|[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript)|[클릭](./solution/print_age.js)|Javascript|practice|
 
 
 
