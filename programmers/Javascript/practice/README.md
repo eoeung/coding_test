@@ -36,8 +36,8 @@
 |28|23.06.22|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript)|[클릭](./solution/lamb_skewers.js)|Javascript|practice|
 |29|23.06.22|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=javascript)|[클릭](./solution/sum_even.js)|Javascript|practice|
 |30|23.06.22|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=javascript)|[클릭](./solution/slice_array.js)|Javascript|practice|
-
-
+|31|23.06.22|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834?language=javascript)|[클릭](./solution/alien_planet_age.js)|Javascript|practice|
+|32|23.06.22|[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835?language=javascript)|[클릭](./solution/treat_order.js)|Javascript|practice|
 
 
 
