@@ -38,10 +38,13 @@
 |30|23.06.22|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=javascript)|[클릭](./solution/slice_array.js)|Javascript|practice|
 |31|23.06.22|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834?language=javascript)|[클릭](./solution/alien_planet_age.js)|Javascript|practice|
 |32|23.06.22|[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835?language=javascript)|[클릭](./solution/treat_order.js)|Javascript|practice|
-
-
-
-
+|33|23.06.23|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836?language=javascript)|[클릭](./solution/ordered_pair.js)|Javascript|practice|
+|34|23.06.23|[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837?language=javascript)|[클릭](./solution/ant_corps.js)|Javascript|practice|
+|35|23.06.23|[모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838?language=javascript)|[클릭](./solution/morse1.js)|Javascript|practice|
+|36|23.06.23|[가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839?language=javascript)|[클릭](./solution/rock_scissors_paper.js)|Javascript|practice|
+|37|23.06.23|[구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840?language=javascript)|[클릭](./solution/share_balls.js)|Javascript|practice|
+|38|23.06.23|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841?language=javascript)|[클릭](./solution/point_location.js)|Javascript|practice|
+|39|23.06.23|[2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842?language=javascript)|[클릭](./solution/create_2d_array.js)|Javascript|practice|
 
 
 
