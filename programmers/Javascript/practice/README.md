@@ -45,6 +45,8 @@
 |37|23.06.23|[구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840?language=javascript)|[클릭](./solution/share_balls.js)|Javascript|practice|
 |38|23.06.23|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841?language=javascript)|[클릭](./solution/point_location.js)|Javascript|practice|
 |39|23.06.23|[2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842?language=javascript)|[클릭](./solution/create_2d_array.js)|Javascript|practice|
+|40|23.06.25|[공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843?language=javascript)|[클릭](./solution/throw_ball.js)|Javascript|practice|
+
 
 
 
