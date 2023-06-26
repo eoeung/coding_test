@@ -54,6 +54,11 @@
 |46|23.06.26|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=javascript)|[클릭](./solution/sum_hide_number.js)|Javascript|practice|
 |47|23.06.26|[소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852?language=javascript)|[클릭](./solution/prime_factorization.js)|Javascript|practice|
 |48|23.06.26|[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853?language=javascript)|[클릭](./solution/control_z.js)|Javascript|practice|
+|49|23.06.26|[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854?language=javascript)|[클릭](./solution/array_length.js)|Javascript|practice|
+|50|23.06.26|[직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860?language=javascript)|[클릭](./solution/rectangular_area.js)|Javascript|practice|
+|51|23.06.26|[캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861?language=javascript)|[클릭](./solution/character_coordinate.js)|Javascript|practice|
+|52|23.06.26|[최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=javascript)|[클릭](./solution/maximum2.js)|Javascript|practice|
+
 
 
 
