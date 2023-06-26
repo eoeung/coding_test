@@ -51,15 +51,15 @@
 |43|23.06.26|[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848?language=javascript)|[클릭](./solution/factorial.js)|Javascript|practice|
 |44|23.06.26|[모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=javascript)|[클릭](./solution/remove_vowels.js)|Javascript|practice|
 |45|23.06.26|[문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850?language=javascript)|[클릭](./solution/sort_string.js)|Javascript|practice|
-|46|23.06.26|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=javascript)|[클릭](./solution/sum_hide_number.js)|Javascript|practice|
+|46|23.06.26|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=javascript)|[클릭](./solution/sum_hide_number1.js)|Javascript|practice|
 |47|23.06.26|[소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852?language=javascript)|[클릭](./solution/prime_factorization.js)|Javascript|practice|
 |48|23.06.26|[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853?language=javascript)|[클릭](./solution/control_z.js)|Javascript|practice|
 |49|23.06.26|[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854?language=javascript)|[클릭](./solution/array_length.js)|Javascript|practice|
 |50|23.06.26|[직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860?language=javascript)|[클릭](./solution/rectangular_area.js)|Javascript|practice|
 |51|23.06.26|[캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861?language=javascript)|[클릭](./solution/character_coordinate.js)|Javascript|practice|
 |52|23.06.26|[최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=javascript)|[클릭](./solution/maximum2.js)|Javascript|practice|
-
-
+|53|23.06.27|[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863?language=javascript)|[클릭](./solution/add_polynomial.js)|Javascript|practice|
+|54|23.06.27|[숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864?language=javascript)|[클릭](./solution/sum_hide_number2.js)|Javascript|practice|
 
 
 
