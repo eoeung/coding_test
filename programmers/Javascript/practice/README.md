@@ -46,6 +46,17 @@
 |38|23.06.23|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841?language=javascript)|[클릭](./solution/point_location.js)|Javascript|practice|
 |39|23.06.23|[2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842?language=javascript)|[클릭](./solution/create_2d_array.js)|Javascript|practice|
 |40|23.06.25|[공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843?language=javascript)|[클릭](./solution/throw_ball.js)|Javascript|practice|
+|41|23.06.26|[주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845?language=javascript)|[클릭](./solution/count_dice.js)|Javascript|practice|
+|42|23.06.26|[합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846?language=javascript)|[클릭](./solution/find_composite_number.js)|Javascript|practice|
+|43|23.06.26|[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848?language=javascript)|[클릭](./solution/factorial.js)|Javascript|practice|
+|44|23.06.26|[모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=javascript)|[클릭](./solution/remove_vowels.js)|Javascript|practice|
+|45|23.06.26|[문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850?language=javascript)|[클릭](./solution/sort_string.js)|Javascript|practice|
+|46|23.06.26|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=javascript)|[클릭](./solution/sum_hide_number.js)|Javascript|practice|
+|47|23.06.26|[소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852?language=javascript)|[클릭](./solution/prime_factorization.js)|Javascript|practice|
+|48|23.06.26|[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853?language=javascript)|[클릭](./solution/control_z.js)|Javascript|practice|
+
+
+
 
 
 
