@@ -62,7 +62,9 @@
 |55|23.06.26|[최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=javascript)|[클릭](./solution/maximum2.js)|Javascript|practice|
 |56|23.06.27|[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863?language=javascript)|[클릭](./solution/add_polynomial.js)|Javascript|practice|
 |57|23.06.27|[숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864?language=javascript)|[클릭](./solution/sum_hide_number2.js)|Javascript|practice|
+|58|23.06.29|[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868?language=javascript)|[클릭](./solution/completion_triangle2.js)|Javascript|practice|
 |60|23.06.28|[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869?language=javascript)|[클릭](./solution/alien_dictionary.js)|Javascript|practice|
+|72|23.06.29|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
 |81|23.06.28|[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript)|[클릭](./solution/divisor.js)|Javascript|practice|
 |100|23.06.28|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=javascript)|[클릭](./solution/babbling.js)|Javascript|practice|
 
