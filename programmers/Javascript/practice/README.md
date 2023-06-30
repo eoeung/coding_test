@@ -62,10 +62,16 @@
 |55|23.06.26|[최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=javascript)|[클릭](./solution/maximum2.js)|Javascript|practice|
 |56|23.06.27|[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863?language=javascript)|[클릭](./solution/add_polynomial.js)|Javascript|practice|
 |57|23.06.27|[숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864?language=javascript)|[클릭](./solution/sum_hide_number2.js)|Javascript|practice|
-|58|23.06.29|[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868?language=javascript)|[클릭](./solution/completion_triangle2.js)|Javascript|practice|
+|59|23.06.29|[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868?language=javascript)|[클릭](./solution/completion_triangle2.js)|Javascript|practice|
 |60|23.06.28|[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869?language=javascript)|[클릭](./solution/alien_dictionary.js)|Javascript|practice|
 |72|23.06.29|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
+|74|23.06.30|[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
 |81|23.06.28|[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript)|[클릭](./solution/divisor.js)|Javascript|practice|
+|87|23.06.29|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883?language=javascript)|[클릭](./solution/login.js)|Javascript|practice|
+|89|23.06.30|[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885?language=javascript)|[클릭](./solution/add_binary.js)|Javascript|practice|
+|90|23.06.30|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886?language=javascript)|[클릭](./solution/make_B_from_A.js)|Javascript|practice|
+|91|23.06.30|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887?language=javascript)|[클릭](./solution/count_k.js)|Javascript|practice|
+|92|23.06.30|[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript)|[클릭](./solution/remove_duplicate_string.js)|Javascript|practice|
 |100|23.06.28|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=javascript)|[클릭](./solution/babbling.js)|Javascript|practice|
 
 
