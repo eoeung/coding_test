@@ -78,6 +78,8 @@
 |79|23.07.04|[인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=javascript)|[클릭](./solution/change_index.js)|Javascript|practice|
 |80|23.07.04|[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896?language=javascript)|[클릭](./solution/one_time_character.js)|Javascript|practice|
 |81|23.06.28|[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript)|[클릭](./solution/divisor.js)|Javascript|practice|
+|82|23.07.05|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=javascript)|[클릭](./solution/letter.js)|Javascript|practice|
+|83|23.07.05|[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript)|[클릭](./solution/find_max.js)|Javascript|practice|
 |89|23.07.04|[OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=javascript)|[클릭](./solution/ox_quiz.js)|Javascript|practice|
 |100|23.06.28|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=javascript)|[클릭](./solution/babbling.js)|Javascript|practice|
 
