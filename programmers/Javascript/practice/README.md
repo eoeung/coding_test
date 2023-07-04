@@ -66,6 +66,8 @@
 |60|23.06.28|[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869?language=javascript)|[클릭](./solution/alien_dictionary.js)|Javascript|practice|
 |72|23.06.29|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
 |74|23.06.30|[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
+|76|23.07.04|[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=javascript)|[클릭](./solution/decryption.js)|Javascript|practice|
+|76|23.07.04|[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=javascript)|[클릭](./solution/uppercase_lowercase.js)|Javascript|practice|
 |81|23.06.28|[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript)|[클릭](./solution/divisor.js)|Javascript|practice|
 |87|23.06.29|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883?language=javascript)|[클릭](./solution/login.js)|Javascript|practice|
 |89|23.06.30|[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885?language=javascript)|[클릭](./solution/add_binary.js)|Javascript|practice|
