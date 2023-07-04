@@ -64,16 +64,21 @@
 |57|23.06.27|[숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864?language=javascript)|[클릭](./solution/sum_hide_number2.js)|Javascript|practice|
 |59|23.06.29|[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868?language=javascript)|[클릭](./solution/completion_triangle2.js)|Javascript|practice|
 |60|23.06.28|[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869?language=javascript)|[클릭](./solution/alien_dictionary.js)|Javascript|practice|
-|72|23.06.29|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
-|74|23.06.30|[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
+|67|23.06.29|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883?language=javascript)|[클릭](./solution/login.js)|Javascript|practice|
+|69|23.06.30|[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885?language=javascript)|[클릭](./solution/add_binary.js)|Javascript|practice|
+|70|23.06.30|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886?language=javascript)|[클릭](./solution/make_B_from_A.js)|Javascript|practice|
+|71|23.06.30|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887?language=javascript)|[클릭](./solution/count_k.js)|Javascript|practice|
+|72|23.06.30|[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript)|[클릭](./solution/remove_duplicate_string.js)|Javascript|practice|
+|73|23.06.29|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
+|74|23.07.04|[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890?language=javascript)|[클릭](./solution/close_number.js)|Javascript|practice|
+|75|23.06.30|[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891?language=javascript)|[클릭](./solution/completion_triangle1.js)|Javascript|practice|
 |76|23.07.04|[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=javascript)|[클릭](./solution/decryption.js)|Javascript|practice|
-|76|23.07.04|[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=javascript)|[클릭](./solution/uppercase_lowercase.js)|Javascript|practice|
+|77|23.07.04|[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=javascript)|[클릭](./solution/uppercase_lowercase.js)|Javascript|practice|
+|78|23.07.04|[영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894?language=javascript)|[클릭](./solution/hate_eng.js)|Javascript|practice|
+|79|23.07.04|[인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=javascript)|[클릭](./solution/change_index.js)|Javascript|practice|
+|80|23.07.04|[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896?language=javascript)|[클릭](./solution/one_time_character.js)|Javascript|practice|
 |81|23.06.28|[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript)|[클릭](./solution/divisor.js)|Javascript|practice|
-|87|23.06.29|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883?language=javascript)|[클릭](./solution/login.js)|Javascript|practice|
-|89|23.06.30|[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885?language=javascript)|[클릭](./solution/add_binary.js)|Javascript|practice|
-|90|23.06.30|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886?language=javascript)|[클릭](./solution/make_B_from_A.js)|Javascript|practice|
-|91|23.06.30|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887?language=javascript)|[클릭](./solution/count_k.js)|Javascript|practice|
-|92|23.06.30|[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript)|[클릭](./solution/remove_duplicate_string.js)|Javascript|practice|
+|89|23.07.04|[OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=javascript)|[클릭](./solution/ox_quiz.js)|Javascript|practice|
 |100|23.06.28|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=javascript)|[클릭](./solution/babbling.js)|Javascript|practice|
 
 
