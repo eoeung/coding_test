@@ -88,7 +88,12 @@
 |91|23.07.05|[제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909?language=javascript)|[클릭](./solution/distinguish_square.js)|Javascript|practice|
 |92|23.07.05|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910?language=javascript)|[클릭](./solution/bacterial_growth.js)|Javascript|practice|
 |93|23.07.05|[문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911?language=javascript)|[클릭](./solution/sort_string2.js)|Javascript|practice|
-|94|23.07.05|[7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=javascript)|[클릭](./solution/count_seven.js)|Javascript|practice|
+|94|23.07.05|[7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120924?language=javascript)|[클릭](./solution/next_number.js)|Javascript|practice|
+|95|23.07.05|[잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913?language=javascript)|[클릭](./solution/cut_and_save_array.js)|Javascript|practice|
+|96|23.07.05|[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120913?language=javascript)|[클릭](./solution/push_string.js)|Javascript|practice|
+|97|23.07.05|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=javascript)|[클릭](./solution/cut_paper.js)|Javascript|practice|
+|98|23.07.05|[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923?language=javascript)|[클릭](./solution/sum_consecutive_number.js)|Javascript|practice|
+|99|23.07.05|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=javascript)|[클릭](./solution/count_seven.js)|Javascript|practice|
 |100|23.06.28|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956?language=javascript)|[클릭](./solution/babbling.js)|Javascript|practice|
 
 
