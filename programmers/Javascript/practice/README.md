@@ -80,6 +80,8 @@
 |81|23.06.28|[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript)|[클릭](./solution/divisor.js)|Javascript|practice|
 |82|23.07.05|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=javascript)|[클릭](./solution/letter.js)|Javascript|practice|
 |83|23.07.05|[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript)|[클릭](./solution/find_max.js)|Javascript|practice|
+|84|23.07.06|[문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902?language=javascript)|[클릭](./solution/calculate_string.js)|Javascript|practice|
+|85|23.07.06|[배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=javascript)|[클릭](./solution/array_similarity.js)|Javascript|practice|
 |86|23.07.05|[숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=javascript)|[클릭](./solution/find_number.js)|Javascript|practice|
 |87|23.07.05|[n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=javascript)|[클릭](./solution/multiple_n.js)|Javascript|practice|
 |88|23.07.05|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906?language=javascript)|[클릭](./solution/add_digit.js)|Javascript|practice|
