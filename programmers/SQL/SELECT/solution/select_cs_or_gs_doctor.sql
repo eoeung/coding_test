@@ -1,7 +1,8 @@
--- 제목: 흉부외과 또는 일반외과 의사 목록 출력하기
--- URL: https://school.programmers.co.kr/learn/courses/30/lessons/132203?language=mysql
+/*
+    # 제목: 흉부외과 또는 일반외과 의사 목록 출력하기
+    # URL: https://school.programmers.co.kr/learn/courses/30/lessons/132203?language=mysql
+*/
 
--- 코드를 입력하세요
 SELECT
         DR_NAME,
         DR_ID,
