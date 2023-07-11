@@ -7,4 +7,4 @@
 |:---:|:---:|:---:|:---:|
 |[SELECT](https://school.programmers.co.kr/learn/courses/30/parts/17042)|[이동](./SELECT)|MySQL|Level 1 ~ 5|
 |[SUM, MAX, MIN](https://school.programmers.co.kr/learn/courses/30/parts/17043)|[이동](./SUM_MAX_MIN)|MySQL|Level 1 ~ 2|
-|[GROUP BY](https://school.programmers.co.kr/learn/courses/30/parts/17044)|[이동](./GROUP_BY)|MySQL|Level 1 ~ 2|
+|[GROUP BY](https://school.programmers.co.kr/learn/courses/30/parts/17044)|[이동](./GROUP_BY)|MySQL|Level 2 ~ 4|
