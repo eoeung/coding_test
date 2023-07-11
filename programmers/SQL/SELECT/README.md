@@ -23,3 +23,5 @@
 |16|23.07.11|[조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673?language=mysql)|[클릭](./solution/select_reply.sql)|MySQL|Level 1|
 |17|23.07.11|[3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120?language=mysql)|[클릭](./solution/select_birth_march_female.sql)|MySQL|Level 2|
 |18|23.07.11|[재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536?language=mysql)|[클릭](./solution/select_repurchase_user.sql)|MySQL|Level 2|
+|19|23.07.11|[재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118?language=mysql)|[클릭](./solution/select_seoul_restaurant.sql)|MySQL|Level 4|
+|20|23.07.11|[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537?language=mysql)|[클릭](./solution/integrate_offline_online_sales.sql)|MySQL|Level 4|
