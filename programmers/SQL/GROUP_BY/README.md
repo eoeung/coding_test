@@ -11,4 +11,6 @@
 |4|23.07.11|[진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202?language=mysql)|[클릭](./solution/count_appointment.sql)|MySQL|Level 2|
 |5|23.07.11|[동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041?language=mysql)|[클릭](./solution/find_same_name.sql)|MySQL|Level 2|
 |6|23.07.11|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412?language=mysql)|[클릭](./solution/adoption_time(1).sql)|MySQL|Level 2|
-|7|23.07.11|[입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412?language=mysql)|[클릭](./solution/adoption_time(1).sql)|MySQL|Level 2|
+|7|23.07.11|[가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql)|[클릭](./solution/count_price_group.sql)|MySQL|Level 2|
+|8|23.07.12|[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139?language=mysql)|[클릭](./solution/rental_month.sql)|MySQL|Level 3|
+|9|23.07.12|[조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668?language=mysql)|[클릭](./solution/total_sales.sql)|MySQL|Level 3|
