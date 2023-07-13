@@ -14,3 +14,5 @@
 |7|23.07.11|[가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql)|[클릭](./solution/count_price_group.sql)|MySQL|Level 2|
 |8|23.07.12|[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139?language=mysql)|[클릭](./solution/rental_month.sql)|MySQL|Level 3|
 |9|23.07.12|[조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668?language=mysql)|[클릭](./solution/total_sales.sql)|MySQL|Level 3|
+|10|23.07.13|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855?language=mysql)|[클릭](./solution/book_sales_by_category.sql)|MySQL|Level 3|
+|11|23.07.13|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340?language=mysql)|[클릭](./solution/possible_rental.sql)|MySQL|Level 3|
