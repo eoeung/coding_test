@@ -16,3 +16,6 @@
 |9|23.07.12|[조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668?language=mysql)|[클릭](./solution/total_sales.sql)|MySQL|Level 3|
 |10|23.07.13|[카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855?language=mysql)|[클릭](./solution/book_sales_by_category.sql)|MySQL|Level 3|
 |11|23.07.13|[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340?language=mysql)|[클릭](./solution/possible_rental.sql)|MySQL|Level 3|
+|12|23.07.14|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413?language=mysql)|[클릭](./solution/adoption_time(2).sql)|MySQL|Level 4|
+|13|23.07.14|[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856?language=mysql)|[클릭](./solution/sum_author_category.sql)|MySQL|Level 4|
+|14|23.07.14|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123?language=mysql)|[클릭](./solution/favorites.sql)|MySQL|Level 3|
