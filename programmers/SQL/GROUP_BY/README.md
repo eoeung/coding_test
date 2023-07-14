@@ -19,3 +19,5 @@
 |12|23.07.14|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413?language=mysql)|[클릭](./solution/adoption_time(2).sql)|MySQL|Level 4|
 |13|23.07.14|[저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856?language=mysql)|[클릭](./solution/sum_author_category.sql)|MySQL|Level 4|
 |14|23.07.14|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123?language=mysql)|[클릭](./solution/favorites.sql)|MySQL|Level 3|
+|15|23.07.14|[식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116?language=mysql)|[클릭](./solution/food_type_max_price.sql)|MySQL|Level 4|
+|16|23.07.14|[년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532?language=mysql)|[클릭](./solution/count_year_month_gender_user.sql)|MySQL|Level 4|
