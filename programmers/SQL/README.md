@@ -9,3 +9,4 @@
 |[SUM, MAX, MIN](https://school.programmers.co.kr/learn/courses/30/parts/17043)|[이동](./SUM_MAX_MIN)|MySQL|Level 1 ~ 2|
 |[GROUP BY](https://school.programmers.co.kr/learn/courses/30/parts/17044)|[이동](./GROUP_BY)|MySQL|Level 2 ~ 4|
 |[IS NULL](https://school.programmers.co.kr/learn/courses/30/parts/17045)|[이동](./IS_NULL)|MySQL|Level 1 ~ 2|
+|[JOIN](https://school.programmers.co.kr/learn/courses/30/parts/17046)|[이동](./JOIN)|MySQL|Level 2 ~ 5|
