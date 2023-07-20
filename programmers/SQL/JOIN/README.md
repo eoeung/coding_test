@@ -12,3 +12,5 @@
 |5|23.07.18|[오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044?language=mysql)|[클릭](./solution/long_time_protect.sql)|MySQL|Level 3|
 |6|23.07.18|[그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=mysql)|[클릭](./solution/restaurant_list.sql)|MySQL|Level 4|
 |7|23.07.19|[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=mysql)|[클릭](./solution/heavy_order_icecream.sql)|MySQL|Level 4|
+|8|23.07.20|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117?language=mysql)|[클릭](./solution/MAY_total_sales.sql)|MySQL|Level 4|
+|9|23.07.20|[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045?language=mysql)|[클릭](./solution/neutered_animal.sql)|MySQL|Level 4|
