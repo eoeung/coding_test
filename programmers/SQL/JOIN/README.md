@@ -14,3 +14,5 @@
 |7|23.07.19|[주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=mysql)|[클릭](./solution/heavy_order_icecream.sql)|MySQL|Level 4|
 |8|23.07.20|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117?language=mysql)|[클릭](./solution/MAY_total_sales.sql)|MySQL|Level 4|
 |9|23.07.20|[보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045?language=mysql)|[클릭](./solution/neutered_animal.sql)|MySQL|Level 4|
+|10|23.07.20|[특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339?language=mysql)|[클릭](./solution/possible_rental_fee.sql)|MySQL|Level 4|
+|11|23.07.20|[상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534?language=mysql)|[클릭](./solution/purchase_user_ratio.sql)|MySQL|Level 5|
