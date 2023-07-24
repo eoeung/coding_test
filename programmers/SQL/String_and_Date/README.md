@@ -1,4 +1,4 @@
-# SQL Higt Score Kit - String, Date
+# SQL High Score Kit - String, Date
 # 코딩테스트 SQL 고득점 Kit - String, Date
 
 <br>

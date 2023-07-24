@@ -1,4 +1,4 @@
-# SQL Higt Score Kit - GROUP BY
+# SQL High Score Kit - GROUP BY
 # 코딩테스트 SQL 고득점 Kit - GROUP BY
 
 <br>

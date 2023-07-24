@@ -1,4 +1,4 @@
-# SQL Higt Score Kit - SELECT
+# SQL High Score Kit - SELECT
 # 코딩테스트 SQL 고득점 Kit - SELECT
 
 <br>

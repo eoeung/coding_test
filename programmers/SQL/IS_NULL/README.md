@@ -1,4 +1,4 @@
-# SQL Higt Score Kit - IS NULL
+# SQL High Score Kit - IS NULL
 # 코딩테스트 SQL 고득점 Kit - IS NULL
 
 <br>

@@ -1,4 +1,4 @@
-# SQL Higt Score Kit - JOIN
+# SQL High Score Kit - JOIN
 # 코딩테스트 SQL 고득점 Kit - JOIN
 
 <br>

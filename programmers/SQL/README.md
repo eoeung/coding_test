@@ -1,4 +1,4 @@
-# SQL Higt Score Kit by Programmers
+# SQL High Score Kit by Programmers
 # 코딩테스트 SQL 고득점 Kit
 
 <br>
