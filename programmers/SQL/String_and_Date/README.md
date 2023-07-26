@@ -17,3 +17,4 @@
 |10|23.07.26|[대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341?language=mysql)|[클릭](./solution/october_rental.sql)|MySQL|Level 3|
 |11|23.07.26|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113?language=mysql)|[클릭](./solution/order_status.sql)|MySQL|Level 3|
 |12|23.07.26|[조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671?language=mysql)|[클릭](./solution/max_views_file_path.sql)|MySQL|Level 3|
+|13|23.07.26|[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670?language=mysql)|[클릭](./solution/user_info.sql)|MySQL|Level 3|
