@@ -20,3 +20,4 @@
 |13|23.07.26|[조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670?language=mysql)|[클릭](./solution/user_info.sql)|MySQL|Level 3|
 |14|23.07.27|[오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411?language=mysql)|[클릭](./solution/long_time_protect2.sql)|MySQL|Level 3|
 |15|23.07.27|[취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204?language=mysql)|[클릭](./solution/not_cancel_appointment.sql)|MySQL|Level 4|
+|16|23.07.27|[자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141?language=mysql)|[클릭](./solution/rental_date_fee.sql)|MySQL|Level 4|
