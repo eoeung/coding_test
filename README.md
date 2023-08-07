@@ -8,3 +8,4 @@
 |[프로그래머스 코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=recent&languages=javascript)|[이동](./programmers/Javascript/basic)|Javascript|Basic|
 |[프로그래머스 코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1&languages=javascript)|[이동](./programmers/Javascript/practice)|Javascript|practice|
 |[프로그래머스 SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)|[이동](./programmers/SQL)|MySQL|Level 1 ~ 5|
+|[프로그래머스 Level 1](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&languages=javascript)|[이동](./programmers/Javascript/level1/)|MySQL|Level 1|
