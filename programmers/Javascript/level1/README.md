@@ -18,4 +18,6 @@
 |11|23.08.08|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)|[클릭](./solution/kim.js)|Javascript|Level 1|
 |13|23.08.11|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=javascript)|[클릭](./solution/watermelon.js)|Javascript|Level 1|
 |14|23.08.11|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=javascript)|[클릭](./solution/string_to_num.js)|Javascript|Level 1|
+|15|23.08.14|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|[클릭](./solution/caesar_cipher.js)|Javascript|Level 1|
+|16|23.08.14|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=javascript)|[클릭](./solution/sum_of_divisors.js)|Javascript|Level 1|
 |36|23.08.07|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[클릭](./solution/failed_runner.js)|Javascript|Level 1|
