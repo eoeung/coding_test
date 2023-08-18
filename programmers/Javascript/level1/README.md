@@ -20,4 +20,6 @@
 |14|23.08.11|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=javascript)|[클릭](./solution/string_to_num.js)|Javascript|Level 1|
 |15|23.08.14|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|[클릭](./solution/caesar_cipher.js)|Javascript|Level 1|
 |16|23.08.14|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=javascript)|[클릭](./solution/sum_of_divisors.js)|Javascript|Level 1|
+|18|23.08.18|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=javascript)|[클릭](./solution/sum_digit.js)|Javascript|Level 1|
+|19|23.08.18|[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=javascript)|[클릭](./solution/reverse_array.js)|Javascript|Level 1|
 |36|23.08.07|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[클릭](./solution/failed_runner.js)|Javascript|Level 1|
