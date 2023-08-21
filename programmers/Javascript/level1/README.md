@@ -22,4 +22,12 @@
 |16|23.08.14|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=javascript)|[클릭](./solution/sum_of_divisors.js)|Javascript|Level 1|
 |18|23.08.18|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=javascript)|[클릭](./solution/sum_digit.js)|Javascript|Level 1|
 |19|23.08.18|[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=javascript)|[클릭](./solution/reverse_array.js)|Javascript|Level 1|
+|20|23.08.21|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)|[클릭](./solution/descending_number.js)|Javascript|Level 1|
+|21|23.08.21|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=javascript)|[클릭](./solution/square_root.js)|Javascript|Level 1|
+|22|23.08.21|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=javascript)|[클릭](./solution/remove_min_number.js)|Javascript|Level 1|
+|23|23.08.21|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=javascript)|[클릭](./solution/odd_even.js)|Javascript|Level 1|
+|24|23.08.21|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)|[클릭](./solution/gcd_lcm.js)|Javascript|Level 1|
+|25|23.08.21|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|[클릭](./solution/collatz.js)|Javascript|Level 1|
+|26|23.08.21|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=javascript)|[클릭](./solution/average.js)|Javascript|Level 1|
+|27|23.08.21|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=javascript)|[클릭](./solution/harshad_number.js)|Javascript|Level 1|
 |36|23.08.07|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[클릭](./solution/failed_runner.js)|Javascript|Level 1|
