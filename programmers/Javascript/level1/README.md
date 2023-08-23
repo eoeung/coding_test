@@ -30,4 +30,9 @@
 |25|23.08.21|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|[클릭](./solution/collatz.js)|Javascript|Level 1|
 |26|23.08.21|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=javascript)|[클릭](./solution/average.js)|Javascript|Level 1|
 |27|23.08.21|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=javascript)|[클릭](./solution/harshad_number.js)|Javascript|Level 1|
+|28|23.08.23|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=javascript)|[클릭](./solution/phone_number.js)|Javascript|Level 1|
+|29|23.08.23|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=javascript)|[클릭](./solution/sum_matrix.js)|Javascript|Level 1|
+|30|23.08.23|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=javascript)|[클릭](./solution/x_n.js)|Javascript|Level 1|
+|31|23.08.23|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)|[클릭](./solution/star.js)|Javascript|Level 1|
+|33|23.08.23|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=javascript)|[클릭](./solution/budget.js)|Javascript|Level 1|
 |36|23.08.07|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[클릭](./solution/failed_runner.js)|Javascript|Level 1|
