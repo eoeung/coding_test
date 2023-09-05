@@ -36,3 +36,4 @@
 |31|23.08.23|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)|[클릭](./solution/star.js)|Javascript|Level 1|
 |33|23.08.23|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=javascript)|[클릭](./solution/budget.js)|Javascript|Level 1|
 |36|23.08.07|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[클릭](./solution/failed_runner.js)|Javascript|Level 1|
+|37|23.09.04|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=javascript)|[클릭](./solution/k.js)|Javascript|Level 1|
